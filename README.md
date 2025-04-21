@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey there, I'm Kushagra
 
-<!--
-**kux109/kux109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Engineer | 🎓 MS CSE @ Penn State | 🧠 AI + Systems Enthusiast
 
-Here are some ideas to get you started:
+- 🧱 2.5+ years building scalable backend systems & slick frontend apps  
+- 🧠 ML projects: GANs, Graph Neural Networks, and more  
+- 📚 Coursework: Advanced Graph Algorithms, Graph Mining, Computer Security  
+- 💻 Love working with: Java, Python, Spring Boot, React, Docker, Kubernetes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building things that blend **AI + Full Stack** in elegant ways.  
+Always exploring, always shipping.  
+
+📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)  
+
+![Kushagra's LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/kush1499?bgColor=fff)
