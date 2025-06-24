@@ -10,6 +10,8 @@
 Currently building things that blend **AI + Full Stack** in elegant ways.  
 Always exploring, always shipping.  
 
+My Personal [Webpage](https://www.kushagrasrivastva.co)
+
 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/kush1499)  
 
 Have a look at my [Resume](https://drive.google.com/file/d/1zW3y7dErg8JIbvj2bG1Wxh70xNwCloqO/view?usp=sharing)
